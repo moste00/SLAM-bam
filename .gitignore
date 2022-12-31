@@ -1,2 +1,5 @@
-build/*
-devel/*
+.vscode/
+build/
+devel/
+.catkin_workspace
+
