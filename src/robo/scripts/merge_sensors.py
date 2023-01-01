@@ -2,7 +2,6 @@
 
 import rospy
 from robo.msg import MergedReadings
-from std_msgs.msg import Header
 from sensor_msgs.msg import LaserScan
 from nav_msgs.msg import Odometry
 import message_filters
