@@ -52,6 +52,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   MergedReadings.msg
+  LocalizationReadings.msg
 )
 
 ## Generate services in the 'srv' folder
